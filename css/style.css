@@ -486,6 +486,7 @@ section.hero {
 
 .features .feature-item {
   margin-bottom: 60px;
+  text-align: left;
 }
 
 .features .feature-item .feature-icon {
