@@ -1322,11 +1322,6 @@ footer.footer {
   
   .features .feature-item {
     margin-bottom: 45px;
-    text-align: center;
-  }
-
-  .features .feature-item .feature-icon {
-    justify-content: center;
   }
 
   .features .feature-item .feature-des {
