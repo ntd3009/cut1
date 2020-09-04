@@ -1327,6 +1327,10 @@ footer.footer {
     text-align: center;
   }
 
+  .features .feature-item .feature-icon {
+    justify-content: center;
+  }
+
   .features .feature-item .feature-des {
     margin: 0 3%;
   }
