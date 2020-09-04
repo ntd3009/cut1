@@ -1325,7 +1325,7 @@ footer.footer {
   }
 
   .features .feature-item .feature-des {
-    margin: 0 3%;
+    margin-right: 0;
   }
 
   .gallery-images .image-item {
